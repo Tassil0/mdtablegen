@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "author": "Ezop",
+  "book": "Bajky",
+  "url": ""
+ },
+ {
+  "id": 2,
+  "author": "Boccaccio Giovanni",
+  "book": "Dekameron",
+  "url": ""
+ },
+ {
+  "id": 3,
+  "author": "Shakespeare William",
+  "book": "Romeo a Julie",
+  "url": ""
+ },
+ {
+  "id": 4,
+  "author": "Moliere",
+  "book": "Lakomec",
+  "url": ""
+ },
+ {
+  "id": 5,
+  "author": "Defoe Daniel",
+  "book": "Robinson Crusoe",
+  "url": ""
+ },
+ {
+  "id": 6,
+  "author": "Swift Jonathan",
+  "book": "Gulliverovy cesty",
+  "url": ""
+ },
+ {
+  "id": 7,
+  "author": "Komenský Jan Amos",
+  "book": "Labyrint světa a ráj srdce",
+  "url": ""
+ },
+ {
+  "id": 8,
+  "author": "Puškin Alexandr Sergejevič",
+  "book": "Evžen Oněgin",
+  "url": ""
+ },
+ {
+  "id": 9,
+  "author": "Gogol Nikolaj Vasiljevič",
+  "book": "Revizor",
+  "url": ""
+ },
+ {
+  "id": 10,
+  "author": "Poe Edgar Allan",
+  "book": "Povídky",
+  "url": ""
+ },
+ {
+  "id": 11,
+  "author": "Dumas Alexandre",
+  "book": "Tři mušketýři",
+  "url": ""
+ },
+ {
+  "id": 12,
+  "author": "Hugo Viktor",
+  "book": "Chrám Matky Boží v Paříži",
+  "url": ""
+ },
+ {
+  "id": 13,
+  "author": "Baudelaire Charles",
+  "book": "Květy zla",
+  "url": ""
+ },
+ {
+  "id": 14,
+  "author": "Zola Emil",
+  "book": "Tereza Raquinová",
+  "url": ""
+ },
+ {
+  "id": 15,
+  "author": "Maupassant Guy de",
+  "book": "Kulička",
+  "url": ""
+ },
+ {
+  "id": 16,
+  "author": "Flaubert Gustave",
+  "book": "Paní Bovaryová",
+  "url": ""
+ },
+ {
+  "id": 17,
+  "author": "Wilde Oscar",
+  "book": "Obraz Doriana Graye",
+  "url": ""
+ },
+ {
+  "id": 18,
+  "author": "Čelakovský František L.",
+  "book": "Ohlas písní českých",
+  "url": ""
+ },
+ {
+  "id": 19,
+  "author": "Mácha Karel Hynek",
+  "book": "Máj",
+  "url": ""
+ },
+ {
+  "id": 20,
+  "author": "Tyl Josef Kajetán",
+  "book": "Strakonický dudák",
+  "url": ""
+ },
+ {
+  "id": 21,
+  "author": "Borovský Havlíček Karel",
+  "book": "Tyrolské elegie",
+  "url": ""
+ },
+ {
+  "id": 22,
+  "author": "Erben Karel Jaromír",
+  "book": "Kytice",
+  "url": ""
+ },
+ {
+  "id": 23,
+  "author": "Němcová Božena",
+  "book": "V zámku a podzámčí",
+  "url": ""
+ },
+ {
+  "id": 24,
+  "author": "Neruda Jan",
+  "book": "Malostranské povídky",
+  "url": ""
+ },
+ {
+  "id": 25,
+  "author": "Vrchlický Jaroslav",
+  "book": "Noc na Karlštejně",
+  "url": ""
+ },
+ {
+  "id": 26,
+  "author": "Čech Svatopluk",
+  "book": "Nový epochální výlet páně Broučka, tentokráte do 15. století",
+  "url": ""
+ },
+ {
+  "id": 27,
+  "author": "Mrštíkové Alois a Vilém",
+  "book": "Maryša",
+  "url": ""
+ },
+ {
+  "id": 28,
+  "author": "Apollinaire",
+  "book": "Alkoholy",
+  "url": ""
+ },
+ {
+  "id": 29,
+  "author": "Remarque Erich Maria",
+  "book": "Na západní frontě klid",
+  "url": ""
+ },
+ {
+  "id": 30,
+  "author": "Hemingway Ernest",
+  "book": "Komu zvoní hrana",
+  "url": ""
+ },
+ {
+  "id": 31,
+  "author": "Rolland Romain",
+  "book": "Petr a Lucie",
+  "url": ""
+ },
+ {
+  "id": 32,
+  "author": "Exupéry Antoine de Saint",
+  "book": "Malý princ",
+  "url": ""
+ },
+ {
+  "id": 33,
+  "author": "Steinbeck John",
+  "book": "O myších a lidech",
+  "url": ""
+ },
+ {
+  "id": 34,
+  "author": "Tolkien John Ronald Reuel",
+  "book": "Pán prstenu",
+  "url": ""
+ },
+ {
+  "id": 35,
+  "author": "Bradbury Ray",
+  "book": "451° Fahrenheita",
+  "url": ""
+ },
+ {
+  "id": 36,
+  "author": "Orwell George",
+  "book": "Farma zvířat",
+  "url": ""
+ },
+ {
+  "id": 37,
+  "author": "Golding William",
+  "book": "Pán much",
+  "url": ""
+ },
+ {
+  "id": 38,
+  "author": "Solženicyn Alexandr",
+  "book": "Jeden den Ivana Děnisoviče",
+  "url": ""
+ },
+ {
+  "id": 39,
+  "author": "Merle Robert",
+  "book": "Smrt je mým řemeslem",
+  "url": ""
+ },
+ {
+  "id": 40,
+  "author": "Gellner František",
+  "book": "Po nás ať přijde potopa",
+  "url": ""
+ },
+ {
+  "id": 41,
+  "author": "Jirásek Alois",
+  "book": "Lucerna",
+  "url": ""
+ },
+ {
+  "id": 42,
+  "author": "Dyk Viktor",
+  "book": "Krysař",
+  "url": ""
+ },
+ {
+  "id": 43,
+  "author": "Bezruč Petr",
+  "book": "Slezské písně",
+  "url": ""
+ },
+ {
+  "id": 44,
+  "author": "Čapek Karel",
+  "book": "Bílá nemoc",
+  "url": ""
+ },
+ {
+  "id": 45,
+  "author": "Čapek Karel",
+  "book": "Povídky z jedné kapsy",
+  "url": ""
+ },
+ {
+  "id": 46,
+  "author": "Hašek Jaroslav",
+  "book": "Osudy dobrého vojáka Švejka za světové války",
+  "url": ""
+ },
+ {
+  "id": 47,
+  "author": "Seifert Jaroslav",
+  "book": "Jablko z klína",
+  "url": ""
+ },
+ {
+  "id": 48,
+  "author": "Poláček Karel",
+  "book": "Bylo nás pět",
+  "url": ""
+ },
+ {
+  "id": 49,
+  "author": "Havlíček Jaroslav",
+  "book": "Petrolejové lampy",
+  "url": ""
+ },
+ {
+  "id": 50,
+  "author": "Vančura Vladislav",
+  "book": "Rozmarné léto",
+  "url": ""
+ },
+ {
+  "id": 51,
+  "author": "Jirotka Zdeněk",
+  "book": "Saturnin",
+  "url": ""
+ },
+ {
+  "id": 52,
+  "author": "Kundera Milan",
+  "book": "Směšné lásky",
+  "url": ""
+ },
+ {
+  "id": 53,
+  "author": "Hrabal Bohumil",
+  "book": "Ostře sledované vlaky",
+  "url": ""
+ },
+ {
+  "id": 54,
+  "author": "Šabach Petr",
+  "book": "Občanský průkaz",
+  "url": ""
+ },
+ {
+  "id": 55,
+  "author": "Fuks Ladislav",
+  "book": "Spalovač mrtvol",
+  "url": ""
+ },
+ {
+  "id": 56,
+  "author": "Škvorecký Josef",
+  "book": "Prima sezona",
+  "url": ""
+ },
+ {
+  "id": 57,
+  "author": "Pavel Ota",
+  "book": "Smrt krásných srnců",
+  "url": ""
+ },
+ {
+  "id": 58,
+  "author": "Lustig Arnošt",
+  "book": "Modlitba pro Kateřinu Horowitzovou",
+  "url": ""
+ },
+ {
+  "id": 59,
+  "author": "Havel Václav",
+  "book": "Audience",
+  "url": ""
+ },
+ {
+  "id": 60,
+  "author": "Viewegh Michal",
+  "book": "Báječná léta pod psa",
+  "url": ""
+ }
+]
